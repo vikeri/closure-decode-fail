@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Viktor Eriksson <viktor.eriksson2@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "google-closure-library": "^20171203.0.0"
+  }
 }
