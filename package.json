@@ -1,0 +1,7 @@
+{
+  "name": "decodetest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Viktor Eriksson <viktor.eriksson2@gmail.com>",
+  "license": "MIT"
+}
